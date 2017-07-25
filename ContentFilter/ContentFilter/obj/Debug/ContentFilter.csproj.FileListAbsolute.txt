@@ -1,0 +1,6 @@
+C:\GIT\Personal\ContentFilter\ContentFilter\bin\Debug\ContentFilter.exe.config
+C:\GIT\Personal\ContentFilter\ContentFilter\obj\Debug\ContentFilter.csprojResolveAssemblyReference.cache
+C:\GIT\Personal\ContentFilter\ContentFilter\bin\Debug\ContentFilter.exe
+C:\GIT\Personal\ContentFilter\ContentFilter\bin\Debug\ContentFilter.pdb
+C:\GIT\Personal\ContentFilter\ContentFilter\obj\Debug\ContentFilter.exe
+C:\GIT\Personal\ContentFilter\ContentFilter\obj\Debug\ContentFilter.pdb

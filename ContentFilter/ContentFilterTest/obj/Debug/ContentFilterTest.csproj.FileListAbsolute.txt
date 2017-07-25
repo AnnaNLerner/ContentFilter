@@ -1,0 +1,8 @@
+C:\GIT\Personal\ContentFilter\ContentFilterTest\bin\Debug\ContentFilterTest.dll
+C:\GIT\Personal\ContentFilter\ContentFilterTest\bin\Debug\ContentFilterTest.pdb
+C:\GIT\Personal\ContentFilter\ContentFilterTest\bin\Debug\ContentFilter.exe
+C:\GIT\Personal\ContentFilter\ContentFilterTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GIT\Personal\ContentFilter\ContentFilterTest\bin\Debug\ContentFilter.pdb
+C:\GIT\Personal\ContentFilter\ContentFilterTest\obj\Debug\ContentFilterTest.csprojResolveAssemblyReference.cache
+C:\GIT\Personal\ContentFilter\ContentFilterTest\obj\Debug\ContentFilterTest.dll
+C:\GIT\Personal\ContentFilter\ContentFilterTest\obj\Debug\ContentFilterTest.pdb

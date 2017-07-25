@@ -1,0 +1,12 @@
+Hello - this is line #1 starting with hello.
+This is line number 2 - not applying.
+This is line #3 with HELLO in a middle - chedck ignore case.
+This one is line #4 ending with the word BYE
+This one is line #5 ending with BYE and more...
+hello lower case #6 - This sentence starts with hello and ends with bye
+Here we contain word WORLD number 7.
+Hello - Here we contain word WORLD number 8 starting HELLO.
+Hello - Here we contain word WORLD number ends with bye
+Hello lower case #0 - This sentence starts with hello and ends with bye
+Long text - This sentence starts with hello and ends with byesdscfab qajekdhbb kjedgs kjasgxs akshga
+Long text - asmxsc axbs rkhgbbd lerjfd jdhgfl byesdscfab qajekdhbb kjedgs kjasgxs akshga
